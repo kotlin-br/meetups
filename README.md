@@ -6,6 +6,3 @@
 ### Sudeste
 * [Sao Paulo Kotlin Meetup](https://www.meetup.com/kotlin-meetup-sp/)
 * [Rio de Janeiro](https://www.meetup.com/Kotlin-Rio/)
-
-## Forums
-* [Brasil Kotlin User Group](https://groups.google.com/forum/#!forum/kotlin-brasil)
